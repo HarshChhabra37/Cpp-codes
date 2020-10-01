@@ -1,7 +1,7 @@
-#include<iostream>
+#include<iostream>          //headerfile
 using namespace std;
-int main()
+int main()                  //mainfunction
 {
-    cout<<"HELLO"<<endl;
+    cout<<"Hello"<<endl;   //printing statement
     return 0;
 }
