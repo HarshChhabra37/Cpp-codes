@@ -2,17 +2,17 @@
 using namespace std;
 int main()
 {
-int marks[]={45,50,28,38};
-int mathsmarks[4];
+int number[]={100,100,39,49};
+int mathsnumber[4];
 
-cout<<marks[0];
-cout<<marks[1];
-cout<<marks[2];
-cout<<marks[3];
+cout<<number[0];
+cout<<number[1];
+cout<<number[2];
+cout<<number[3];
 
 for(int i=0; i<4; i++)
 {
-    cout<<i<<marks[i];
+    cout<<i<<number[i];
 }
    
     return 0;
