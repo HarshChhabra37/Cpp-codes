@@ -1,10 +1,10 @@
-#include<iostream>
+#include<iostream>       //headerfile
 using namespace std;
-int main()
+int main()              //mainfunction
 {
-cout<<"helloo";
+cout<<"helloo"; //printing hello 
 
    
-    return 0;
+    return 0;     //returingtomainfunction
 }
 
